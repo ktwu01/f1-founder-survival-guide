@@ -12,6 +12,7 @@
 - **成就**: 2020年疫情期间Zoom成为全球最流行的视频会议平台，公司市值一度超过1000亿美元
 - **签证路径**: F1学生签证 → H-1B工作签证 → 绿卡 → 公民
 - **F1创业**: ✅ 是
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Eric_Yuan), [Forbes](https://www.forbes.com/profile/eric-yuan/)
 
 ### 2. Tony Xu（徐迅）
 - **背景**: 南京出生，8岁随父母移民美国
@@ -19,6 +20,7 @@
 - **创业**: DoorDash联合创始人兼CEO
 - **成就**: 2020年DoorDash上市，成为美国最大的外卖平台之一
 - **备注**: 虽然不是直接从F1创业，但作为移民背景的成功案例
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Tony_Xu), [Forbes](https://www.forbes.com/profile/tony-xu/)
 
 ### 3. Min Zhu（朱敏）
 - **背景**: 浙江大学本科，斯坦福大学博士
@@ -26,6 +28,7 @@
 - **创业**: WebEx联合创始人
 - **成就**: WebEx于2007年被思科以32亿美元收购
 - **签证路径**: F1学生签证开始在美国学习
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Zhu_Min_(entrepreneur)), [Quora](https://www.quora.com/Why-have-Chinese-people-been-more-successful-in-creating-great-IT-companies-than-Indians)
 
 ### 4. Kai-Fu Lee（李开复）
 - **背景**: 台湾出生，哥伦比亚大学本科，卡内基梅隆大学博士
@@ -33,12 +36,14 @@
 - **职业**: 微软中国研究院院长、Google中国总裁、创新工场创始人
 - **创业**: 创新工场（中国领先的创业投资机构）
 - **签证路径**: F1学生签证开始在美国学习
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Kai-Fu_Lee), [Sinovation Ventures](https://www.sinovationventures.com/)
 
 ### 5. Jenny Lee（李宏玮）
 - **背景**: 新加坡出生，康奈尔大学工程学学士，西北大学凯洛格商学院MBA
 - **职业**: GGV Capital管理合伙人
 - **投资**: 投资了阿里巴巴、滴滴出行、小红书等知名中国科技公司
 - **备注**: 作为风险投资家支持了大量华人创业者
+- **来源**: [Forbes Midas List](https://www.forbes.com/profile/jenny-lee/), [GGV Capital](https://www.ggvc.com/)
 
 ### 6. Chen Chunyu（陈春宇）
 - **背景**: 高三独自“北漂”，清华大学辍学，曾在硅谷睡地板创业
@@ -121,6 +126,49 @@
 *注: 本列表将持续更新，目标收集100个案例*
 *进度: 60/100 (60%)*
 
+## 主要信息来源
+
+### 综合来源
+- [Forbes 25 Notable Chinese-Americans (2008)](https://www.forbes.com/global/2008/0915/054a.html) - 25位杰出华裔美国人
+- [Forbes 25 Notable Chinese-Americans Slideshow](https://www.forbes.com/2008/09/08/notable-chinese-americans-biz-cx_rf_0908china_slide.html)
+- [Wikipedia - List of Chinese Americans](https://en.wikipedia.org/wiki/List_of_Chinese_Americans)
+- [Immigrant Learning Center - Hall of Fame](https://ilctr.org/about-immigrants/immigrant-entrepreneurs/hall-of-fame/)
+
+### 科技与创业
+- [Crunchbase](https://www.crunchbase.com/) - 创业公司数据库
+- [TechCrunch](https://techcrunch.com/) - 科技新闻
+- [36Kr](https://36kr.com/) - 中国科技媒体
+- [The Wire China - Who's Who: China's AI Industry](https://www.thewirechina.com/chinas-ai-industry/)
+
+### AI与新兴科技
+- [Forbes AI 50](https://www.forbes.com/ai-50/) - AI领域顶级公司
+- [Failory - Top 100 China Startups](https://www.failory.com/startups/china)
+- [DeepSeek Wikipedia](https://en.wikipedia.org/wiki/DeepSeek)
+
+### 个人资料来源
+- Wikipedia - 各创始人个人页面
+- Forbes Profile - 富豪和企业家档案
+- LinkedIn - 职业背景
+- 公司官方网站
+
+### 学术与教育
+- Stanford University Alumni
+- MIT Alumni
+- Carnegie Mellon University Alumni
+- Y Combinator Alumni Directory
+
+## 贡献指南
+
+如果您知道其他华人创业者的案例，欢迎贡献！请提供：
+1. 创业者姓名（中英文）
+2. 教育背景（特别是是否持F1签证）
+3. 创业公司名称和行业
+4. 主要成就和里程碑
+5. 可靠的信息来源链接（Wikipedia、Forbes、公司网站、新闻报道等）
+6. 签证路径（如已知）
+
+请通过GitHub Issues或Pull Request提交新案例。
+
 ### 7. Andrew Ng（吴恩达）
 - **背景**: 香港出生，卡内基梅隆大学学士，麻省理工学院硕士，加州大学伯克利分校博士
 - **教育**: 卡内基梅隆大学（学士），麻省理工学院（硕士），加州大学伯克利分校（博士）
@@ -128,6 +176,7 @@
 - **成就**: 谷歌大脑联合创始人，百度前首席科学家，斯坦福大学副教授，在线教育平台Coursera联合创始人
 - **签证路径**: F1学生签证开始在美国学习
 - **影响**: AI教育领域的先驱，通过Coursera让数百万人接触机器学习课程
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Ng), [Coursera](https://www.coursera.org/), [DeepLearning.AI](https://www.deeplearning.ai/)
 
 ### 8. Jensen Huang（黄仁勋）
 - **背景**: 台湾出生，俄勒冈州立大学学士，斯坦福大学硕士
@@ -136,6 +185,7 @@
 - **成就**: 将NVIDIA从图形芯片公司转型为AI计算领导者，公司市值超过万亿美元
 - **签证路径**: 幼年移民美国，但在美国教育体系成长
 - **备注**: 虽然不是F1签证创业，但作为华人科技领袖的典范
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Jensen_Huang), [NVIDIA](https://www.nvidia.com/), [Forbes](https://www.forbes.com/profile/jensen-huang/)
 
 ### 9. Gokul Rajaram
 - **背景**: 印度出生，但作为对比案例（印度创业者在美国的成功）
@@ -160,6 +210,7 @@
 - **成就**: 2005年创立YouTube，2006年以16.5亿美元卖给Google
 - **签证路径**: 幼年移民，在美国教育体系成长
 - **F1创业**: ❌ 幼年移民
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Steve_Chen), [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ### 12. Jerry Yang（杨致远）
 - **背景**: 台湾出生，10岁移民美国
@@ -168,6 +219,7 @@
 - **成就**: 1994年与David Filo创立Yahoo!，成为最早的互联网门户网站之一
 - **签证路径**: F1学生签证（斯坦福博士项目期间创业）
 - **F1创业**: ✅ 是
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Jerry_Yang), [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ### 13. Charles Wang（王嘉廉）
 - **背景**: 上海出生，8岁移民美国
@@ -176,6 +228,7 @@
 - **成就**: 1976年创立CA，成为企业软件巨头
 - **签证路径**: 幼年移民
 - **F1创业**: ❌ 幼年移民
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Charles_Wang), [Substack](https://alaen.substack.com/p/how-immigrant-dynasties-are-rewriting)
 
 ### 14. David Sun（孙大卫）& John Tu（杜纪川）
 - **背景**: Sun来自台湾，Tu来自重庆
@@ -184,6 +237,7 @@
 - **成就**: 创建美国最大的非上市计算机内存制造商，2007年销售额45亿美元
 - **财富**: 2008年福布斯排名并列第462位，各25亿美元
 - **F1创业**: 待确认
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html), [Kingston Website](https://www.kingston.com/)
 
 ### 15. Min Kao（高民环）
 - **背景**: 台湾出生
@@ -192,6 +246,7 @@
 - **成就**: 全球最大GPS系统制造商，2008年净资产31亿美元
 - **签证路径**: F1学生签证
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html), [Garmin](https://www.garmin.com/)
 
 ### 16. Ming Hsieh（谢明）
 - **背景**: 沈阳出生
@@ -199,6 +254,7 @@
 - **创业**: Cogent Systems联合创始人
 - **成就**: 1990年创立指纹识别公司Cogent，2007年收入1.06亿美元，市值10亿美元
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ### 17. Nancy Chang（张念慈）
 - **背景**: 台湾出生
@@ -207,6 +263,7 @@
 - **成就**: 休斯顿Tanox（哮喘和艾滋病治疗公司），2006年被Genentech以9.19亿美元收购
 - **当前**: OrbiMed Advisors董事总经理
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ### 18. William Wang（王威廉）
 - **背景**: 台湾出生，青少年时期移民美国
@@ -214,6 +271,7 @@
 - **创业**: Vizio创始人兼CEO
 - **成就**: 2003年以2名员工和60万美元创立Vizio，成为美国销量第一的LCD电视品牌，销售额20亿美元
 - **F1创业**: 待确认
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html), [Vizio](https://www.vizio.com/)
 
 ### 19. James Chu（朱詹姆斯）
 - **背景**: 台湾出生
@@ -229,6 +287,7 @@
 - **成就**: 1993年创立，控制70%的节能灯泡市场，通过沃尔玛和家得宝销售
 - **签证路径**: 1982年来美留学
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ### 21. Dominic Ng（吴多米尼克）
 - **背景**: 香港出生
@@ -251,6 +310,7 @@
 - **成就**: 纽约上市公司，市值11亿美元，与辉瑞、默克等大型制药公司合作
 - **签证路径**: F1学生签证
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html), [WuXi AppTec](https://www.wuxiapptec.com/)
 
 ### 24. Ta-Lin Hsu（许达林）
 - **背景**: 重庆出生
@@ -280,6 +340,7 @@
 - **成就**: 带领AMD从困境中崛起，成为AI芯片领域的重要玩家
 - **签证路径**: 幼年移民
 - **F1创业**: ❌ 幼年移民（但作为华人科技领袖的典范）
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Lisa_Su), [AMD](https://www.amd.com/)
 
 ### 28. Morris Chang（张忠谋）
 - **背景**: 中国出生，在香港长大，移民美国
@@ -288,6 +349,7 @@
 - **成就**: 1987年创立TSMC，成为全球最大的半导体代工厂
 - **净资产**: 2026年1月估计为70亿美元
 - **F1创业**: ✅ 是
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Morris_Chang), [TSMC](https://www.tsmc.com/)
 
 ### 29. Liang Wenfeng（梁文锋）
 - **背景**: 中国出生
@@ -296,6 +358,7 @@
 - **成就**: 2023年7月创立DeepSeek AI，开发出与OpenAI竞争的AI模型
 - **备注**: 中国AI领域的新星
 - **F1创业**: ❌ 在中国创业
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/DeepSeek), [Yahoo](https://www.yahoo.com/tech/chinas-fantastic-four-breed-entrepreneurs-093000770.html)
 
 ### 30. Zhang Yiming（张一鸣）
 - **背景**: 中国出生
@@ -303,6 +366,7 @@
 - **创业**: ByteDance（字节跳动）创始人
 - **成就**: 创建TikTok母公司，估值3000亿美元
 - **F1创业**: ❌ 在中国创业
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Zhang_Yiming), [Forbes](https://www.forbes.com/profile/zhang-yiming/)
 
 ### 31. Wang Tao（汪滔）
 - **背景**: 中国出生
@@ -326,6 +390,7 @@
 - **融资**: 从HSG（前红杉资本中国）等获得3000万美元，估值1.8亿美元
 - **备注**: 现在正在硅谷扩展业务
 - **F1创业**: ❌ 在中国创业后扩展到美国
+- **来源**: [Forbes](https://www.forbes.com/sites/annatong/2026/02/24/this-middle-school-dropout-built-his-ai-startup-in-china-now-hes-scaling-it-in-silicon-valley/)
 
 ### 34. Carina Hong（洪卡琳娜）
 - **背景**: 华裔，24岁
@@ -333,6 +398,7 @@
 - **创业**: Axiom Math创始人
 - **成就**: 2025年3月创立，9月获得6400万美元种子轮融资，吸引大科技公司人才
 - **F1创业**: ✅ 是（斯坦福博士项目期间创业）
+- **来源**: [VnExpress](https://e.vnexpress.net/news/tech/personalities/who-is-carina-hong-the-24-year-old-stanford-dropout-drawing-big-tech-talent-to-her-ai-math-startup-4996995.html)
 
 ### 35. Xiaoyin Qu（曲晓音）
 - **背景**: 中国出生
@@ -363,6 +429,7 @@
 - **投资**: HongShan（前红杉资本中国）创始及管理合伙人
 - **成就**: 投资了阿里巴巴、字节跳动、美团、拼多多、Shein等
 - **F1创业**: ✅ 是（耶鲁MBA）
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Neil_Shen), [HongShan](https://www.hscapital.com/)
 
 ### 39. Pei Lin Liang（梁培林）
 - **背景**: 广东出生
@@ -378,6 +445,7 @@
 - **创业**: Multicultural Radio Broadcasting创始人
 - **成就**: 拥有44个广播电台和有线电视业务，用中文、西班牙语、越南语、俄语等多种语言广播
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ### 41. Herman Li（李赫曼）
 - **背景**: 香港出生，55岁
@@ -422,6 +490,7 @@
 - **成就**: 1950年来美，拥有雇佣3000多人的企业，生产或加工钢铁、铝和药品，年收入超过10亿美元
 - **慈善**: 向三个基金会捐赠1.5亿美元
 - **F1创业**: ✅ 是
+- **来源**: [Forbes 2008](https://www.forbes.com/global/2008/0915/054a.html)
 
 ## 数据统计（基于46个案例）
 
@@ -448,6 +517,7 @@
 - **成就**: 2015年创立iCarbonX，结合基因组学与健康数据开发AI引擎，启动时估值超过10亿美元
 - **贡献**: 首位测序亚洲人基因组，参与人类基因组计划、水稻基因组测序、SARS、大熊猫等基因组测序
 - **F1创业**: ❌ 在中国创业
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Wang_Jun_(scientist)), [iCarbonX](https://www.icarbonx.com/), [TED](https://www.ted.com/speakers/jun_wang)
 
 ### 48. Lin Qiao（林乔）
 - **背景**: 中国出生
@@ -456,6 +526,7 @@
 - **创业**: Fireworks AI联合创始人兼CEO
 - **成就**: 2022年创立，2024年9月获得6400万美元融资，估值5.52亿美元，Jensen Huang和Lisa Su投资
 - **F1创业**: ✅ 是（加州大学圣巴巴拉分校博士）
+- **来源**: [36Kr](https://eu.36kr.com/en/p/3407737936137857), [Entrepreneur](https://www.entrepreneur.com/leadership/she-used-the-ai-revolution-to-start-a-500-million-company/481505)
 
 ### 49. Changpeng Zhao（赵长鹏，CZ）
 - **背景**: 江苏连云港出生，1977年
@@ -465,6 +536,7 @@
 - **财富**: 净资产约610亿美元
 - **国籍**: 中国-加拿大
 - **F1创业**: ❌ 加拿大移民
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Changpeng_Zhao), [Forbes](https://www.forbes.com/profile/changpeng-zhao/)
 
 ### 50. Lucy Guo（郭露西）
 - **背景**: 加州弗里蒙特出生，1994年10月14日，华裔父母（电气工程师）
@@ -472,6 +544,7 @@
 - **创业**: Scale AI联合创始人，Passes创始人
 - **成就**: 2016年与Alexandr Wang联合创立Scale AI，2022年创立Passes，成为世界最年轻的白手起家女性亿万富翁
 - **F1创业**: ❌ 在美国出生
+- **来源**: [Wikipedia](https://en.wikipedia.org/wiki/Lucy_Guo), [Forbes](https://www.forbes.com/profile/lucy-guo/), [VnExpress](https://e.vnexpress.net/news/business/billionaires/5-things-to-know-about-lucy-guo-who-just-replaced-taylor-swift-as-world-s-youngest-self-made-woman-billionaire-4879572.html)
 
 ### 51. Cathy Tie（铁凯西）
 - **背景**: 华裔美国人
