@@ -80,7 +80,7 @@
 - 入口文件：`docs/index.html`
 - 文档首页：`docs/README.md`
 - 本地预览（可选）：`npx docsify-cli serve docs`
-- [项目待办](TODO.md)
+- [项目待办](docs/project-todo.md)
 - [贡献指南](CONTRIBUTING.md)
 - [免责声明](DISCLAIMER.md)
 
